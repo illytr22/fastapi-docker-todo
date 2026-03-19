@@ -5,7 +5,7 @@ A high-performance RESTful API backend built with **FastAPI**. This project feat
 
 Key Features
 
- High Performance**: Powered by FastAPI, offering near-Go/NodeJS speeds and auto-generated interactive OpenAPI (Swagger) documentation.
+ High Performance: Powered by FastAPI, offering near-Go/NodeJS speeds and auto-generated interactive OpenAPI (Swagger) documentation.
  Industrial-Grade Security: 
  Bcrypt Password Hashing: Automatically adds a unique “Salt” to passwords to prevent Rainbow Table and Brute Force attacks.
  Stateless JWT Auth: Implements OAuth2 Password Flow with JSON Web Tokens for secure, scalable session management.
